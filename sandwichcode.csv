@@ -1,0 +1,76 @@
+## this is the infamous _hangops_ sandwich code list, in CSV
+## http/1 and http/2 are welcome
+## There are dupes for codes, don't yell at me.  round robin the codes for
+## maximum <3!
+##
+## @emp2 is maintaining a parallel json structured list at
+## https://github.com/~~
+##
+##
+## - Thundercleese / Brian Raker 2018-01-19
+
+http code,sandwich code text
+00x, your sandwich is wrapped in layers of Akamai (tm) tinfoil
+0xc, Your sandwich maker is unhygienic
+100, tell me more about your sandwich
+101, Switching bread type
+101, your sandwich is now also a burrito
+102, making sandwich
+200, Totes delicious
+200, We're pretending its totes delicious but really you're about to get foodpoisoning
+200, sandwich successfully acquired.
+201, Your sandwich is ready
+202, sandwich order accepted
+203, This looks like your sandwich but it may not be
+204,"no mustard, wtf"
+204, Two slices of bread only
+204, No Sandwich for you
+206, missing mustard
+206, We ran out of coldcuts come back later
+206, your sandwich is missing bread
+206,"You ordered a half-sandwich, right?"
+300, enjoy your sandwich burrito
+301, redirect to new sandwich
+302,"dropped it on the floor, will get it back on the plate soon enough"
+305,"get your sandwich in the dark back alley, we wonâ€™t serve you"
+402, I'll gladly pay you Monday for a hamburger today
+402, sandwich costs $5
+403, sandwich locked
+405, we don't make those types of sandwiches
+406, we don't handle sandwiches here
+409, You already got your sandwich
+410, sandwich gone
+410, Someone ate your sandwich
+411, 6 inch or foot long
+413, too many toppings
+414, Sandwiches can't hold that many ingredients
+415, we only serve soup
+416, we don't make sandwiches that big
+417, we don't do those types of sandwiches
+418, i'm a sandwich
+418,"I'm a teapot, not a sandwich"
+418, sandwich is teapot
+418, I am a salad
+420, You're gonna want more sandwiches soon.
+422, we cannot process fucking sandwiches
+428, You want white or wheat bread?
+429, Out of bread
+429, too many sandwiches being made
+440, line too long for sandwich
+450, Your parents say no more sandwiches
+451, your sandwich has been banned
+451, We cannot legally feed you that sandwich
+469, Sandwich not defined
+496, are you sure that's *your* sandwich?
+500, internal sandwich problem
+501,"This is my sandwich, GFY"
+502, This is a car dealership
+503,"sandwich unavailable, i already ate it"
+503, sandwiches unavailable
+504, sandwich isn't ready yet
+504, dealership on fire
+508, your sandwich is a ring
+508, bagel error
+509, You're too fat for more sandwiches.
+521, Sandwich maker is sick
+525,"no greets, no eats."
